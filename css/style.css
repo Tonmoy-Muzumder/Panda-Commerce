@@ -1,4 +1,11 @@
 .my-bg-color{
     background-color: #FEEAE9;
+    margin-top: 50px;
+    border-radius: 10px;
     
+
+}
+.my-bg{
+    background-color: #F4F4F4;
+    padding: 30px;
 }
